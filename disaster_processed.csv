@@ -1,0 +1,148 @@
+age,gender,education_level,disaster_type,training_received,training_hours,awareness_score,preparedness_score,previous_experience,region,occupation,training_year,age_group,effectiveness
+7,Male,SD,Banjir,Tidak,0,45,30,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),37.5
+8,Female,SD,Gempa,Tidak,0,50,35,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),42.5
+9,Male,SD,Tanah Longsor,Tidak,0,40,25,Tidak,Pedesaan,Pelajar,2023,Anak-anak (6-12),32.5
+10,Female,SD,Banjir,Ya,2,75,60,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),67.5
+11,Male,SMP,Gempa,Tidak,0,55,40,Pernah,Perkotaan,Pelajar,2024,Anak-anak (6-12),47.5
+12,Female,SMP,Tsunami,Ya,4,80,70,Tidak,Pesisir,Pelajar,2024,Anak-anak (6-12),75.0
+13,Male,SMP,Banjir,Tidak,0,48,35,Pernah,Perkotaan,Pelajar,2023,Remaja (13-18),41.5
+14,Female,SMP,Gempa,Ya,3,82,75,Tidak,Perkotaan,Pelajar,2024,Remaja (13-18),78.5
+15,Male,SMA,Gempa,Ya,6,90,85,Tidak,Perkotaan,Pelajar,2024,Remaja (13-18),87.5
+16,Female,SMA,Banjir,Tidak,0,60,50,Pernah,Pedesaan,Pelajar,2023,Remaja (13-18),55.0
+17,Male,SMA,Tanah Longsor,Ya,5,88,82,Pernah,Pedesaan,Pelajar,2024,Remaja (13-18),85.0
+18,Female,SMA,Gempa,Tidak,0,65,55,Tidak,Perkotaan,Pelajar,2023,Remaja (13-18),60.0
+19,Male,SMA,Tsunami,Ya,8,95,90,Tidak,Pesisir,Pelajar,2024,Dewasa Muda (19-25),92.5
+20,Female,Universitas,Gempa,Ya,10,92,88,Tidak,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),90.0
+21,Male,Universitas,Banjir,Ya,8,85,80,Pernah,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),82.5
+22,Female,Universitas,Tanah Longsor,Tidak,0,70,60,Tidak,Pedesaan,Mahasiswa,2023,Dewasa Muda (19-25),65.0
+23,Male,Universitas,Gempa,Ya,12,94,92,Tidak,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),93.0
+24,Female,Universitas,Tsunami,Ya,6,88,85,Tidak,Pesisir,Mahasiswa,2024,Dewasa Muda (19-25),86.5
+25,Male,S1,Gempa,Ya,15,96,94,Pernah,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),95.0
+26,Female,S1,Banjir,Ya,10,90,88,Pernah,Perkotaan,Karyawan,2024,Dewasa (26-35),89.0
+27,Male,S1,Tanah Longsor,Tidak,0,72,65,Tidak,Pedesaan,Karyawan,2023,Dewasa (26-35),68.5
+28,Female,S1,Gempa,Ya,20,98,96,Tidak,Perkotaan,Karyawan,2024,Dewasa (26-35),97.0
+29,Male,S1,Tsunami,Ya,8,89,86,Tidak,Pesisir,Karyawan,2024,Dewasa (26-35),87.5
+30,Female,S1,Banjir,Ya,12,93,90,Pernah,Perkotaan,Karyawan,2024,Dewasa (26-35),91.5
+31,Male,S2,Gempa,Ya,25,99,97,Tidak,Perkotaan,Profesional,2024,Dewasa (26-35),98.0
+32,Female,S2,Banjir,Ya,18,97,95,Pernah,Perkotaan,Profesional,2024,Dewasa (26-35),96.0
+33,Male,S2,Tanah Longsor,Ya,10,91,89,Tidak,Pedesaan,Profesional,2024,Dewasa (26-35),90.0
+34,Female,S2,Gempa,Ya,22,98,96,Tidak,Perkotaan,Profesional,2024,Dewasa (26-35),97.0
+35,Male,S2,Tsunami,Ya,15,95,93,Pernah,Pesisir,Profesional,2024,Dewasa (26-35),94.0
+36,Female,S3,Gempa,Ya,30,99,98,Tidak,Perkotaan,Akademisi,2024,Dewasa Tua (36-45),98.5
+37,Male,S3,Banjir,Ya,20,97,96,Pernah,Perkotaan,Akademisi,2024,Dewasa Tua (36-45),96.5
+38,Female,S3,Tanah Longsor,Ya,12,94,92,Tidak,Pedesaan,Akademisi,2024,Dewasa Tua (36-45),93.0
+39,Male,S3,Gempa,Ya,28,99,97,Tidak,Perkotaan,Akademisi,2024,Dewasa Tua (36-45),98.0
+40,Female,S3,Tsunami,Ya,18,96,95,Pernah,Pesisir,Akademisi,2024,Dewasa Tua (36-45),95.5
+6,Male,SD,Banjir,Tidak,0,35,20,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),27.5
+7,Female,SD,Gempa,Tidak,0,42,28,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),35.0
+8,Male,SD,Tanah Longsor,Tidak,0,38,22,Tidak,Pedesaan,Pelajar,2023,Anak-anak (6-12),30.0
+9,Female,SD,Banjir,Ya,2,70,55,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),62.5
+10,Male,SMP,Gempa,Ya,4,78,68,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),73.0
+11,Female,SMP,Tsunami,Ya,5,85,75,Pernah,Pesisir,Pelajar,2024,Anak-anak (6-12),80.0
+12,Male,SMP,Banjir,Tidak,0,52,40,Pernah,Perkotaan,Pelajar,2023,Anak-anak (6-12),46.0
+13,Female,SMP,Gempa,Ya,6,88,80,Tidak,Perkotaan,Pelajar,2024,Remaja (13-18),84.0
+14,Male,SMA,Gempa,Ya,8,92,86,Tidak,Perkotaan,Pelajar,2024,Remaja (13-18),89.0
+15,Female,SMA,Banjir,Ya,4,75,70,Pernah,Pedesaan,Pelajar,2024,Remaja (13-18),72.5
+16,Male,SMA,Tanah Longsor,Ya,7,89,84,Tidak,Pedesaan,Pelajar,2024,Remaja (13-18),86.5
+17,Female,SMA,Gempa,Tidak,0,68,58,Tidak,Perkotaan,Pelajar,2023,Remaja (13-18),63.0
+18,Male,Universitas,Gempa,Ya,12,94,90,Tidak,Perkotaan,Mahasiswa,2024,Remaja (13-18),92.0
+19,Female,Universitas,Banjir,Ya,8,86,82,Pernah,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),84.0
+20,Male,Universitas,Tsunami,Ya,10,92,88,Tidak,Pesisir,Mahasiswa,2024,Dewasa Muda (19-25),90.0
+21,Female,Universitas,Gempa,Ya,15,96,93,Tidak,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),94.5
+22,Male,S1,Gempa,Ya,18,97,95,Pernah,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),96.0
+23,Female,S1,Banjir,Ya,12,93,90,Pernah,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),91.5
+24,Male,S1,Tanah Longsor,Ya,8,88,85,Tidak,Pedesaan,Karyawan,2024,Dewasa Muda (19-25),86.5
+25,Female,S1,Gempa,Ya,20,98,96,Tidak,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),97.0
+26,Male,S2,Gempa,Ya,24,99,97,Tidak,Perkotaan,Profesional,2024,Dewasa (26-35),98.0
+27,Female,S2,Banjir,Ya,16,96,94,Pernah,Perkotaan,Profesional,2024,Dewasa (26-35),95.0
+28,Male,S2,Tsunami,Ya,14,95,92,Tidak,Pesisir,Profesional,2024,Dewasa (26-35),93.5
+29,Female,S3,Gempa,Ya,28,99,98,Tidak,Perkotaan,Akademisi,2024,Dewasa (26-35),98.5
+30,Male,S3,Banjir,Ya,22,98,96,Pernah,Perkotaan,Akademisi,2024,Dewasa (26-35),97.0
+31,Female,S3,Tanah Longsor,Ya,12,94,91,Tidak,Pedesaan,Akademisi,2024,Dewasa (26-35),92.5
+32,Male,SD,Gempa,Tidak,0,40,25,Tidak,Perkotaan,Pelajar,2023,Dewasa (26-35),32.5
+33,Female,SD,Banjir,Tidak,0,38,24,Tidak,Perkotaan,Pelajar,2023,Dewasa (26-35),31.0
+34,Male,SMP,Gempa,Ya,5,80,72,Tidak,Perkotaan,Pelajar,2024,Dewasa (26-35),76.0
+35,Female,SMP,Tsunami,Ya,6,86,78,Pernah,Pesisir,Pelajar,2024,Dewasa (26-35),82.0
+36,Male,SMA,Gempa,Ya,10,93,88,Tidak,Perkotaan,Pelajar,2024,Dewasa Tua (36-45),90.5
+37,Female,SMA,Banjir,Ya,6,82,76,Pernah,Pedesaan,Pelajar,2024,Dewasa Tua (36-45),79.0
+38,Male,Universitas,Gempa,Ya,14,95,91,Tidak,Perkotaan,Mahasiswa,2024,Dewasa Tua (36-45),93.0
+39,Female,Universitas,Tsunami,Ya,12,94,89,Tidak,Pesisir,Mahasiswa,2024,Dewasa Tua (36-45),91.5
+40,Male,S1,Gempa,Ya,20,98,95,Pernah,Perkotaan,Karyawan,2024,Dewasa Tua (36-45),96.5
+41,Female,S1,Banjir,Ya,15,96,92,Pernah,Perkotaan,Karyawan,2024,Dewasa Tua (36-45),94.0
+42,Male,S2,Gempa,Ya,26,99,97,Tidak,Perkotaan,Profesional,2024,Dewasa Tua (36-45),98.0
+43,Female,S2,Tanah Longsor,Ya,18,97,94,Tidak,Pedesaan,Profesional,2024,Dewasa Tua (36-45),95.5
+44,Male,S3,Gempa,Ya,30,99,98,Tidak,Perkotaan,Akademisi,2024,Dewasa Tua (36-45),98.5
+45,Female,SD,Banjir,Ya,2,68,52,Tidak,Perkotaan,Pelajar,2024,Dewasa Tua (36-45),60.0
+46,Male,SMP,Gempa,Tidak,0,58,45,Pernah,Perkotaan,Pelajar,2023,Dewasa Tua (36-45),51.5
+47,Female,SMA,Gempa,Ya,12,94,89,Tidak,Perkotaan,Pelajar,2024,Dewasa Tua (36-45),91.5
+48,Male,Universitas,Banjir,Ya,10,90,86,Pernah,Perkotaan,Mahasiswa,2024,Dewasa Tua (36-45),88.0
+49,Female,S1,Gempa,Ya,22,98,95,Tidak,Perkotaan,Karyawan,2024,Dewasa Tua (36-45),96.5
+50,Male,S2,Tsunami,Ya,20,97,94,Tidak,Pesisir,Profesional,2024,Dewasa Tua (36-45),95.5
+6,Female,SD,Gempa,Tidak,0,36,22,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),29.0
+7,Male,SD,Banjir,Tidak,0,40,26,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),33.0
+8,Female,SMP,Gempa,Ya,4,76,65,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),70.5
+9,Male,SMP,Tanah Longsor,Ya,5,82,74,Tidak,Pedesaan,Pelajar,2024,Anak-anak (6-12),78.0
+10,Female,SMA,Gempa,Ya,8,90,84,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),87.0
+11,Male,SMA,Banjir,Ya,6,84,78,Pernah,Perkotaan,Pelajar,2024,Anak-anak (6-12),81.0
+12,Female,Universitas,Gempa,Ya,12,94,89,Tidak,Perkotaan,Mahasiswa,2024,Anak-anak (6-12),91.5
+13,Male,Universitas,Tsunami,Ya,14,95,91,Tidak,Pesisir,Mahasiswa,2024,Remaja (13-18),93.0
+14,Female,S1,Gempa,Ya,18,97,94,Pernah,Perkotaan,Karyawan,2024,Remaja (13-18),95.5
+15,Male,S1,Banjir,Ya,16,96,92,Pernah,Perkotaan,Karyawan,2024,Remaja (13-18),94.0
+16,Female,S2,Gempa,Ya,24,99,96,Tidak,Perkotaan,Profesional,2024,Remaja (13-18),97.5
+17,Male,S2,Tanah Longsor,Ya,20,97,94,Tidak,Pedesaan,Profesional,2024,Remaja (13-18),95.5
+18,Female,S3,Gempa,Ya,28,99,97,Tidak,Perkotaan,Akademisi,2024,Remaja (13-18),98.0
+19,Male,SD,Gempa,Tidak,0,42,28,Tidak,Perkotaan,Pelajar,2023,Dewasa Muda (19-25),35.0
+20,Female,SD,Banjir,Ya,3,72,58,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),65.0
+21,Male,SMP,Gempa,Ya,6,84,76,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),80.0
+22,Female,SMA,Gempa,Ya,10,92,86,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),89.0
+23,Male,Universitas,Banjir,Ya,12,93,88,Pernah,Perkotaan,Mahasiswa,2024,Dewasa Muda (19-25),90.5
+24,Female,S1,Gempa,Ya,20,98,95,Tidak,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),96.5
+25,Male,S2,Gempa,Ya,26,99,97,Tidak,Perkotaan,Profesional,2024,Dewasa Muda (19-25),98.0
+26,Female,SD,Tanah Longsor,Tidak,0,38,24,Tidak,Pedesaan,Pelajar,2023,Dewasa (26-35),31.0
+27,Male,SMP,Tsunami,Ya,5,80,72,Pernah,Pesisir,Pelajar,2024,Dewasa (26-35),76.0
+28,Female,SMA,Banjir,Ya,8,88,82,Pernah,Perkotaan,Pelajar,2024,Dewasa (26-35),85.0
+29,Male,Universitas,Gempa,Ya,15,96,92,Tidak,Perkotaan,Mahasiswa,2024,Dewasa (26-35),94.0
+30,Female,S1,Tsunami,Ya,18,97,93,Tidak,Pesisir,Karyawan,2024,Dewasa (26-35),95.0
+31,Male,S2,Banjir,Ya,22,98,95,Pernah,Perkotaan,Profesional,2024,Dewasa (26-35),96.5
+32,Female,S3,Gempa,Ya,30,99,98,Tidak,Perkotaan,Akademisi,2024,Dewasa (26-35),98.5
+7,Male,SD,Gempa,Tidak,0,41,27,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),34.0
+8,Female,SD,Banjir,Tidak,0,39,25,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),32.0
+9,Male,SMP,Gempa,Ya,5,81,73,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),77.0
+10,Female,SMP,Tanah Longsor,Ya,4,78,70,Tidak,Pedesaan,Pelajar,2024,Anak-anak (6-12),74.0
+11,Male,SMA,Gempa,Ya,9,91,85,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),88.0
+12,Female,SMA,Tsunami,Ya,7,87,80,Pernah,Pesisir,Pelajar,2024,Anak-anak (6-12),83.5
+13,Male,Universitas,Gempa,Ya,13,94,90,Tidak,Perkotaan,Mahasiswa,2024,Remaja (13-18),92.0
+14,Female,Universitas,Banjir,Ya,11,92,87,Pernah,Perkotaan,Mahasiswa,2024,Remaja (13-18),89.5
+15,Male,S1,Gempa,Ya,19,97,94,Pernah,Perkotaan,Karyawan,2024,Remaja (13-18),95.5
+16,Female,S1,Tanah Longsor,Ya,14,95,91,Tidak,Pedesaan,Karyawan,2024,Remaja (13-18),93.0
+17,Male,S2,Gempa,Ya,25,99,96,Tidak,Perkotaan,Profesional,2024,Remaja (13-18),97.5
+18,Female,S2,Banjir,Ya,20,97,94,Pernah,Perkotaan,Profesional,2024,Remaja (13-18),95.5
+19,Male,S3,Gempa,Ya,29,99,98,Tidak,Perkotaan,Akademisi,2024,Dewasa Muda (19-25),98.5
+20,Female,SD,Gempa,Tidak,0,44,29,Tidak,Perkotaan,Pelajar,2023,Dewasa Muda (19-25),36.5
+21,Male,SD,Banjir,Ya,3,73,59,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),66.0
+22,Female,SMP,Gempa,Ya,6,83,75,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),79.0
+23,Male,SMA,Gempa,Ya,11,93,87,Tidak,Perkotaan,Pelajar,2024,Dewasa Muda (19-25),90.0
+24,Female,Universitas,Tsunami,Ya,13,94,90,Tidak,Pesisir,Mahasiswa,2024,Dewasa Muda (19-25),92.0
+25,Male,S1,Gempa,Ya,21,98,95,Tidak,Perkotaan,Karyawan,2024,Dewasa Muda (19-25),96.5
+26,Female,S2,Gempa,Ya,24,99,96,Tidak,Perkotaan,Profesional,2024,Dewasa (26-35),97.5
+27,Male,SD,Tanah Longsor,Tidak,0,37,23,Tidak,Pedesaan,Pelajar,2023,Dewasa (26-35),30.0
+28,Female,SMP,Banjir,Ya,5,79,71,Pernah,Perkotaan,Pelajar,2024,Dewasa (26-35),75.0
+29,Male,SMA,Gempa,Ya,10,92,86,Tidak,Perkotaan,Pelajar,2024,Dewasa (26-35),89.0
+30,Female,Universitas,Gempa,Ya,14,95,91,Tidak,Perkotaan,Mahasiswa,2024,Dewasa (26-35),93.0
+31,Male,S1,Tsunami,Ya,18,97,93,Tidak,Pesisir,Karyawan,2024,Dewasa (26-35),95.0
+32,Female,S2,Banjir,Ya,22,98,95,Pernah,Perkotaan,Profesional,2024,Dewasa (26-35),96.5
+33,Male,S3,Gempa,Ya,30,99,97,Tidak,Perkotaan,Akademisi,2024,Dewasa (26-35),98.0
+6,Female,SD,Gempa,Tidak,0,35,21,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),28.0
+8,Male,SD,Banjir,Tidak,0,40,26,Tidak,Perkotaan,Pelajar,2023,Anak-anak (6-12),33.0
+9,Female,SMP,Gempa,Ya,5,80,72,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),76.0
+10,Male,SMP,Tsunami,Ya,6,85,77,Pernah,Pesisir,Pelajar,2024,Anak-anak (6-12),81.0
+11,Female,SMA,Gempa,Ya,9,91,85,Tidak,Perkotaan,Pelajar,2024,Anak-anak (6-12),88.0
+12,Male,SMA,Banjir,Ya,7,86,80,Pernah,Perkotaan,Pelajar,2024,Anak-anak (6-12),83.0
+13,Female,Universitas,Gempa,Ya,13,94,90,Tidak,Perkotaan,Mahasiswa,2024,Remaja (13-18),92.0
+14,Male,Universitas,Tanah Longsor,Ya,11,92,87,Tidak,Pedesaan,Mahasiswa,2024,Remaja (13-18),89.5
+15,Female,S1,Gempa,Ya,20,98,95,Pernah,Perkotaan,Karyawan,2024,Remaja (13-18),96.5
+16,Male,S1,Banjir,Ya,17,96,93,Pernah,Perkotaan,Karyawan,2024,Remaja (13-18),94.5
+17,Female,S2,Gempa,Ya,25,99,96,Tidak,Perkotaan,Profesional,2024,Remaja (13-18),97.5
+18,Male,S2,Tsunami,Ya,21,98,95,Tidak,Pesisir,Profesional,2024,Remaja (13-18),96.5
+19,Female,S3,Gempa,Ya,29,99,97,Tidak,Perkotaan,Akademisi,2024,Dewasa Muda (19-25),98.0
+20,Male,SD,Gempa,Tidak,0,43,28,Tidak,Perkotaan,Pelajar,2023,Dewasa Muda (19-25),35.5
